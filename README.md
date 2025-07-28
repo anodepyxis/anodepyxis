@@ -1,12 +1,4 @@
-<h1 align="center">Привет</h1>
-
-<p align="center">
-  <a href="https://github.com/anodepyxis" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=800&color=F0F3F7&center=true&vCenter=true&width=480&lines=Hello%2C+I'm+Anode;मैं+अनोड+हूँ;Je+suis+Anode;Ich+bin+Anode;Yo+soy+Anode;Я+Анод;私はアノードです;Eu+sou+Anode;안녕하세요,+저는+Anode입니다;Ciao,+sono+Anode;Merhaba,+ben+Anode;שלום,+אני+Anode;سلام،+من+Anode+هستم;नमस्ते,+मैं+Anode+हूँ"/>
-  </a>
-</p>
-
-
+<h1 align="center">Привет, I'm Anode</h1>
 <h3 align="center">A curious mind swirling through the passage of knowledge in a boat of wisdom </h3>
 
 ---
