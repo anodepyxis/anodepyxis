@@ -14,8 +14,10 @@
 </p>
 
 
+<br>
 
 ---
+
 <br>
 
 ### 🛠️ My Tech Stack
@@ -35,7 +37,9 @@
 </p>
 
 <br>
+
 ---
+
 <br>
 
 ### 🌐 Where I Present My Work
@@ -45,7 +49,9 @@
 </p>
 
 <br>
+
 ---
+
 <br>
 
 ### 📈 GitHub Stats
