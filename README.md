@@ -4,20 +4,22 @@
 ---
 
 - 🔭 I’m currently working on my **CERTIFICATES**
-- 🌱 I’m currently learning **C and Python**
-- 💬 Ask me about **WHATEVER YOU WANT TO**
+- 🌱 I’m currently learning **C & Python**
+- 💬 Ask me about **WHATEVER YOU WANT TO!**
 - 📫 How to reach me:
-- <p align="center">
+<p align="center">
   <a href="mailto:anodepyxis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Add more when ready -->
+  <a href="https://instagram.com/anodepyxis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-- 🧠 Fun Fact: *[I like la gato]*
-
+- 🧠 Fun Fact: *[I like 🐈 & Dracula (the theme!)]*
+<p align="center">
+  <img src="https://media.tenor.com/KUV3MiKTBzEAAAAC/alucard-hellsing.gif" width="200" alt="Alucard approves" />
+</p>
 
 ---
 
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -33,19 +35,22 @@
   <img src="https://img.shields.io/badge/Podman-89ABE3?style=for-the-badge&logo=podman&logoColor=white"/>
 </p>
 
+
 ---
 
 
 ### 🌐 Where I Present My Work
 
-[Instagram](https://instagram.com/anodepyxis)
-
+<p align="center">
+  <a href="https://instagram.com/anodepyxis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
+
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anodepyxis&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodepyxis&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anodepyxis&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodepyxis&layout=compact&theme=tokyonight" height="180" />
 </p>
