@@ -13,7 +13,7 @@
 </p>
 - 🧠 Fun Fact: *[I like 🐈 & Dracula (the theme!)]*
 <p align="center">
-  <img src="https://media.tenor.com/KUV3MiKTBzEAAAAC/alucard-hellsing.gif" width="200" alt="Alucard approves" />
+  <img src="https://media.tenor.com/KUV3MiKTBzEAAAAC/alucard-hellsing.gif" alt="Alucard approves" />
 </p>
 
 ---
