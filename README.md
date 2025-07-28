@@ -6,16 +6,17 @@
 - 🔭 I’m currently working on my **CERTIFICATES**
 - 🌱 I’m currently learning **C & Python**
 - 💬 Ask me about **WHATEVER YOU WANT TO!**
+- 🧠 Fun Fact: **[I like 🐈]**
 - 📫 How to reach me:
 <p align="center">
   <a href="mailto:anodepyxis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/anodepyxis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-- 🧠 Fun Fact: *[I like 🐈]*
+
 
 
 ---
-
+<br>
 
 ### 🛠️ My Tech Stack
 
@@ -35,7 +36,7 @@
 
 
 ---
-
+<br>
 
 ### 🌐 Where I Present My Work
 
@@ -44,7 +45,7 @@
 </p>
 
 ---
-
+<br>
 
 ### 📈 GitHub Stats
 
@@ -52,3 +53,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anodepyxis&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anodepyxis&layout=compact&theme=tokyonight" height="180" />
 </p>
+
+<br>
