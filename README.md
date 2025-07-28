@@ -11,10 +11,8 @@
   <a href="mailto:anodepyxis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/anodepyxis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-- 🧠 Fun Fact: *[I like 🐈 & Dracula (the theme!)]*
-<p align="center">
-  <img src="https://media.tenor.com/KUV3MiKTBzEAAAAC/alucard-hellsing.gif" alt="Alucard approves" />
-</p>
+- 🧠 Fun Fact: *[I like 🐈]*
+
 
 ---
 
