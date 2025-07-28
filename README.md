@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Podman-89ABE3?style=for-the-badge&logo=podman&logoColor=white"/>
 </p>
 
-
+<br>
 ---
 <br>
 
@@ -44,6 +44,7 @@
   <a href="https://instagram.com/anodepyxis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<br>
 ---
 <br>
 
