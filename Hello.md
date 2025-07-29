@@ -13,6 +13,12 @@
   <a href="https://instagram.com/anodepyxis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<br> 
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/78/37/bd/7837bdf10c630ec0acd54f38a1c126c6.gif" width="300" alt="Cool animated GIF"/>
+</p>
+
 
 <br>
 
