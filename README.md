@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on my **CERTIFICATES**
-- 🌱 I’m currently learning **C & Python**
+- 🌱 I’m currently learning **C & C++**
 - 💬 Ask me about **WHATEVER YOU WANT TO!**
 - 🧠 Fun Fact: **[I like 🐈]**
 - 📫 How to reach me:
