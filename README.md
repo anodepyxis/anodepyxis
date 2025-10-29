@@ -1,13 +1,14 @@
 <h1 align="center">Привет, I'm Anode</h1>
-<h3 align="center">A curious mind swirling through the passage of knowledge in a boat of wisdom </h3>
+<h3 align="center">A curious mind swirling through the passage of knowledge in a boat of wisdom passing by mountains of challenges and conflicts</h3>
 
 ---
 
+- 🎓 STUDENT 
 - 🔭 I’m currently working on my **CERTIFICATES**
 - 🌱 I’m currently learning **C & C++**
 - 💬 Ask me about **WHATEVER YOU WANT TO!**
 - 🧠 Fun Fact: **[I like 🐈]**
-- 📫 How to reach me:
+- 📫 How To Reach Me:
 <p align="center">
   <a href="mailto:anodepyxis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/anodepyxis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
